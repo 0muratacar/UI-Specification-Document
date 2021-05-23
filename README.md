@@ -42,7 +42,7 @@ This page, the user management screen: Performs the functions of adding a new us
 
 The page basically consists of 2 area:
 
-![PageImg](https://github.com/0muratacar/learn.md/blob/main/img/Page.jpg)
+![PageImg](img/Page.jpg)
 
 > ## 1. Head Area
 ---
