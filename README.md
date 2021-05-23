@@ -56,7 +56,7 @@ The page basically consists of 2 area:
 
     - ### 1.1 New User Button 
 
-        ![NewUserButtonImg](https://github.com/0muratacar/learn.md/blob/main/img/newUserButton.jpg)
+        ![NewUserButtonImg](img/newUserButton.jpg)
 
         - New User Button Design
 
@@ -78,7 +78,7 @@ The page basically consists of 2 area:
 
     - ### 1.2 Check box and Text
 
-        ![NewUserButtonImg](https://github.com/0muratacar/learn.md/blob/main/img/checkBoxText.jpg)
+        ![NewUserButtonImg](img/checkBoxText.jpg)
 
         - Design
 
@@ -105,7 +105,7 @@ The page basically consists of 2 area:
     
     - ### 1.3 Save User Button 
 
-        ![SaveUserButtonImg](https://github.com/0muratacar/learn.md/blob/main/img/saveUser.jpg)
+        ![SaveUserButtonImg](img/saveUser.jpg)
 
         - Save User Button Design
 
@@ -139,13 +139,13 @@ The page basically consists of 2 area:
     The two sections should have equal space on the page. On the left side should be a table showing the users' information, on the right side should be a user registration form.
 
 
-    ![BodyImg](https://github.com/0muratacar/learn.md/blob/main/img/body.png)
+    ![BodyImg](img/body.png)
 
    - ### 2.1 Table Area
 
         - #### 2.1.1 Table Head
             
-            ![TheadImg](https://github.com/0muratacar/learn.md/blob/main/img/Thead.png)
+            ![TheadImg](img/Thead.png)
             
             - Thead Design
             
@@ -170,7 +170,7 @@ The page basically consists of 2 area:
                 
                 Each column has 3 elements:
                     
-                ![ColumnElementsImg](https://github.com/0muratacar/learn.md/blob/main/img/columnElements.png)
+                ![ColumnElementsImg](img/columnElements.png)
         
                 
                 1 . Text
@@ -209,7 +209,7 @@ The page basically consists of 2 area:
         - #### 2.1.2 Table Body
         
 
-            ![TbodyImg](https://github.com/0muratacar/learn.md/blob/main/img/Tbody.png)
+            ![TbodyImg](img/Tbody.png)
 
             - Tbody Design
 
@@ -227,7 +227,7 @@ The page basically consists of 2 area:
 
         - #### 2.2.1 Card Block 
 
-            ![CardBlockImg](https://github.com/0muratacar/learn.md/blob/main/img/cardBlock.png)
+            ![CardBlockImg](img/cardBlock.png)
 
             - Card-block design
 
@@ -241,7 +241,7 @@ The page basically consists of 2 area:
             
         - #### 2.2.2 Labels and Inputs
 
-            ![LabelsInputsImg](https://github.com/0muratacar/learn.md/blob/main/img/labelsInputs.png)
+            ![LabelsInputsImg](img/labelsInputs.png)
 
             - Design
 
@@ -263,7 +263,7 @@ The page basically consists of 2 area:
 
         - #### 2.2.3 Label and Check Box
 
-            ![LabelsCheckBoxImg](https://github.com/0muratacar/learn.md/blob/main/img/labelsCheckBox.png)
+            ![LabelsCheckBoxImg](img/labelsCheckBox.png)
 
             - Design
 
