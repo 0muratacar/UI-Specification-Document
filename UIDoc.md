@@ -68,9 +68,9 @@ The page basically consists of 2 area:
         
         - Has
 
-            -Icon: “Plus”
+            -Icon: â€œPlusâ€
         
-            -Text: “New User”
+            -Text: â€œNew Userâ€
 
         - Actions
 
@@ -91,7 +91,7 @@ The page basically consists of 2 area:
         
         - Has
         
-            -Text: “Hide Disabled User”
+            -Text: â€œHide Disabled Userâ€
 
         - Actions
 
@@ -119,18 +119,18 @@ The page basically consists of 2 area:
         
         - Has
                 
-            -Text: “Save User”
+            -Text: â€œSave Userâ€
 
         - Actions
         
             o	If fields OK:
             
-            Kullanıcı sisteme kaydedilir.
+            KullanÃ½cÃ½ sisteme kaydedilir.
             
             o	Else:
             
-            Kullanıcı sisteme kaydedilmez,
-            Butona tıklanamaz.
+            KullanÃ½cÃ½ sisteme kaydedilmez,
+            Butona tÃ½klanamaz.
 
 > ## 2. Body Area
 ---
@@ -251,7 +251,7 @@ The page basically consists of 2 area:
 
             - Has
 
-                Text: “Username”, “Display Name”, “Phone”, “Email”, “User Roles”
+                Text: â€œUsernameâ€, â€œDisplay Nameâ€, â€œPhoneâ€, â€œEmailâ€, â€œUser Rolesâ€
             
                 User roles Input: Select Input has 3 Options
             
@@ -273,7 +273,7 @@ The page basically consists of 2 area:
 
             - Has
 
-                Text: “Enabled”
+                Text: â€œEnabledâ€
                 
                 Check-box
 
